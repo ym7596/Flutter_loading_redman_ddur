@@ -1,7 +1,8 @@
 name: loading_redman_ddur
 description: "loading animation redman"
-version: 1.0.0
-homepage:
+version: 1.0.1
+homepage: https://github.com/ym7596/loading_redman_ddur/
+repository: https://github.com/ym7596/loading_redman_ddur
 
 environment:
   sdk: '>=3.2.2 <4.0.0'
