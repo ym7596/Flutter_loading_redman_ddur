@@ -1,0 +1,19 @@
+name: loading_redman_ddur
+description: "loading animation redman"
+version: 1.0.0
+homepage:
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+  flutter: ">=1.15.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
