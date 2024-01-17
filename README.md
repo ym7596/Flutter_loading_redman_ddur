@@ -5,7 +5,7 @@
 import package loading_redman_ddur
 
 pub get
-![Example Image](./imgs/redMan.png)
+![Example Image](./imgs/redMan.PNG)
 ## Usage
 
 
